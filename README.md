@@ -7,7 +7,7 @@
 ### steps for api instalation
 
 <ul>
- <li>Deve criar um arquivo dotenv como o do exemplo <li>
+ <li>Deve criar um arquivo dotenv como o do exemplo </li>
  <li>Aplicação usar mongo atlas então deve criar um banco no mongo atlas</li>
  <li>Rodar o npm install</li>
 </ul>
