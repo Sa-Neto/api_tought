@@ -1,15 +1,16 @@
 <h1> Api-Tought </h1>
 
  > Status: Conclude
- 
+
 ### Application focused on backend with a crud,routes authenticated and using mongo atlas as database
 
 ### steps for api instalation
 
-1-Run the npm install 
-2-For application you have to configure the dotenv by insert PORT,DB_USERNAME,DB_PASSWORD,JWT_SECRET
-3-To run all test console
-4-documentation found on endpoint /api-docs
+<ul>
+ <li>Deve criar um arquivo dotenv como o do exemplo <li>
+ <li>Aplicação usar mongo atlas então deve criar um banco no mon atlas</li>
+ <li>Rodar o npm install</li>
+</ul>
 
 
- 
+
